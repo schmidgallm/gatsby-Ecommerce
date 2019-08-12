@@ -51,3 +51,8 @@ plugins: [
     },
   ],
 </code>
+
+### 3. Stripe Set up
+<p>
+Head over to 
+</p>
