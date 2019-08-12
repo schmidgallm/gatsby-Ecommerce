@@ -54,5 +54,9 @@ plugins: [
 
 ### 3. Stripe Set up
 <p>
-Head over to 
+Head over to <a href="https://stripe.com/">Stripe</a> to set up account.
+</p>
+<p>
+Once all set up generate some skus and get your api key.
+<strong>Make sure you are in testing mode!!!</strong>
 </p>
