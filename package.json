@@ -6,7 +6,7 @@
   "author": "Michael Schmidgall",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "gatsby": "^2.13.50",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.8",
     "gatsby-plugin-config": "^1.0.7",
     "gatsby-plugin-manifest": "^2.2.4",
